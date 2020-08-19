@@ -3,6 +3,7 @@ Specifications:
 What do I want in my database: 
 Name 
 Blood Type
+Gender
 Address
 Donor Center
 
